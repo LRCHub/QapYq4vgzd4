@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今日も本当の自分を隠した",
+  "base_artist": "たかやん",
+  "createdAt": "2026-03-19T19:08:28.684768Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日も本当の自分を隠した",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/pl_01_今日も本当の自分を隠した_たかやん.txt"
+    }
+  ]
+}
